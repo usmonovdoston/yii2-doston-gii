@@ -2,7 +2,7 @@
     "name": "dostonusmonov/yii2-doston-gii",
     "description": "Custom Gii extension for Yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2", "extension"],
     "license": "MIT",
     "authors": [
         {
